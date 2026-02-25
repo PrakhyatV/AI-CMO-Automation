@@ -1,0 +1,25 @@
+{
+  "name": "ai-cmo-automation",
+  "version": "1.0.0",
+  "description": "AI-powered Chief Marketing Officer automation with AI agents and marketing workflows",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "marketing",
+    "automation",
+    "cmo",
+    "content-generation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "axios": "^1.6.7"
+  }
+}
